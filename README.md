@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Kushwaha</h1>
-<h3 align="center">Currently I'm in B-tech CSE 2nd year and learning full stack development in India.,</h3>
+<h3 align="center">Currently I'm in B-tech CSE 2nd year and learning full stack development and DSA with Java in India.,</h3>
 
 - 🌱 I’m currently learning **Full stack development and DSA with Java**
 
