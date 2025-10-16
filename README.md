@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anupamkushwaha639@gmail.com**
 
-- ⚡ Fun fact **helllo**
+- ⚡ Fun fact **Life is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
