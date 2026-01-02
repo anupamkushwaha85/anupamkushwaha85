@@ -1,28 +1,59 @@
 <h1 align="center">Hi 👋, I'm Anupam Kushwaha</h1>
-<h3 align="center">Exploring Java Backend Development,</h3>
+<h3 align="center">🚀 Java Backend Developer | Engineering Student</h3>
 
-- 🌱 I’m currently learning **Full stack development and DSA with Java**
-
-- 💬 Ask me about **Java, JDBC, MySQL, PostgreSQL, php, javascript, Servlet, JSP, JSTL, Spring MVC, Spring Boot, HTML,CSS**
-
-- 📫 How to reach me **anupamkushwaha639@gmail.com**
-
-- ⚡ Fun fact **Life is fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anu12345pam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anu12345pam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anupam kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam kushwaha" height="30" width="40" /></a>
-<a href="https://fb.com/anupam kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/anupam_kushwaha_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam_kushwaha_85" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thuglifeengineers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thuglifeengineers" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anupamkushwaha61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anupamkushwaha61" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anupamkushwaha85" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:anupamkushwaha639@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.hackerrank.com/anupamkushwaha61" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+I am a final-year engineering student passionate about building scalable, robust backend systems. I specialize in <b>Java Development</b>, ranging from low-level JDBC/Servlets to modern Event-Driven Architectures and Microservices.
+</p>
 
+---
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,php,cpp,html,css,js,git&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 🔭 Current Focus
+- 🌱 I’m currently deepening my knowledge in **DSA with Java** and **Microservices**.
+- 🏗️ Recently built an **Event-Driven System** using Java 23 and PostgreSQL.
+- ⚡ Fun fact: **Life is fun** (and so is debugging... sometimes).
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupamkushwaha85&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anupam's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamkushwaha85&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://twitter.com/anu12345pam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anu12345pam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anupamkushwaha85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupamkushwaha85" height="30" width="40" /></a>
+<a href="https://instagram.com/anupam_kushwaha_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam_kushwaha_85" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thuglifeengineers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thuglifeengineers" height="30" width="40" /></a>
+</p>
 <!---
 anupamkushwaha85/anupamkushwaha85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
