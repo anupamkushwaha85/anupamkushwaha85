@@ -23,7 +23,7 @@ I am a final-year engineering student passionate about building scalable, robust
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,php,cpp,html,css,js,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,php,typescript,react,html,css,js,git&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -36,15 +36,6 @@ I am a final-year engineering student passionate about building scalable, robust
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupamkushwaha85&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anupam's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamkushwaha85&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
 
 ### 🤝 Connect with me
 
