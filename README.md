@@ -32,10 +32,11 @@
 
 > *Software Engineer building enterprise-grade systems from architecture to deployment.*
 
-- 🏗️ Built **Emergency108** — a Spring Boot emergency response system with real-time ambulance tracking, state-machine workflows, fault tolerance, and crash recovery
+- 🏗️ Built **Emergency108** — An enterprise-grade emergency tracking platform combining a Spring Boot backend, React admin panel, and Flutter app. Features real-time WebSockets geolocation, Firebase notifications, and JWT role-based auth. Integrated Google Maps, fully containerized with Docker and deployed via automated CI/CD across Render, Vercel, and Aiven.
 - 🛍️ Built **PinnacleWear** — Engineered a scalable MERN-stack e-commerce platform featuring Razorpay and Printrove (POD) integrations. Containerized with Docker and deployed on Azure via a full CI/CD pipeline, fine-tuning the application to hit 100/100 for SEO and 86/100 for performance.
-- ⚙️ Specialized in **system design**, **microservices architecture**, **production debugging**, and **automated deployment pipelines**
-- 🚀 Proven ability to ship complete features independently — from database design to containerized production deployments
+- ⚙️ **Specialized** in **system design**, **microservices architecture**, **production debugging**, and **automated deployment pipelines**
+- 🌐 **Versatile Development** — Capable of building highly optimized applications across diverse ecosystems (TypeScript, React, Java, SpringBoot) with perfect 100/100 SEO scores and complete Google Business Profile (GBP) setups.
+- 🚀 **Proven ability** to ship complete features independently — from database design to containerized production deployments
 - ✍️ I write about tech bugs and engineering lessons on my [blog](https://anupamkushwaha.me/blogs)
 - 📬 Reach me at [anupamkushwaha639@gmail.com](mailto:anupamkushwaha639@gmail.com)
 
