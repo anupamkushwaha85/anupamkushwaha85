@@ -146,19 +146,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupamkushwaha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamkushwaha85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamkushwaha85&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ✍️ Tech Blog
 
 I write about real-world bugs, engineering decisions, and lessons learned building production systems.
