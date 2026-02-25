@@ -33,7 +33,7 @@
 > *Software Engineer building enterprise-grade systems from architecture to deployment.*
 
 - 🏗️ Built **Emergency108** — a Spring Boot emergency response system with real-time ambulance tracking, state-machine workflows, fault tolerance, and crash recovery
-- 🛍️ Built **PinnacleWear** — a MERN stack e-commerce platform with Razorpay & POD Printrove integrations, Docker containerization, and a full CI/CD pipeline deployed on Azure
+- 🛍️ Built **PinnacleWear** — Engineered a scalable MERN-stack e-commerce platform featuring Razorpay and Printrove (POD) integrations. Containerized with Docker and deployed on Azure via a full CI/CD pipeline, fine-tuning the application to hit 100/100 for SEO and 86/100 for performance.
 - ⚙️ Specialized in **system design**, **microservices architecture**, **production debugging**, and **automated deployment pipelines**
 - 🚀 Proven ability to ship complete features independently — from database design to containerized production deployments
 - ✍️ I write about tech bugs and engineering lessons on my [blog](https://anupamkushwaha.me/blogs)
