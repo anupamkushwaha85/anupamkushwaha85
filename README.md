@@ -32,7 +32,7 @@
 
 > *Software Engineer building enterprise-grade systems from architecture to deployment.*
 
-- 🏗️ Built **Emergency108** — An enterprise-grade emergency tracking platform combining a Spring Boot backend, React admin panel, and Flutter app. Features real-time WebSockets geolocation, Firebase notifications, and JWT role-based auth. Integrated Google Maps, fully containerized with Docker and deployed via automated CI/CD across Render, Vercel, and Aiven.
+- 🏗️ Built **Emergency108** — A production-ready, full-stack emergency dispatch platform across three repos: Spring Boot backend (deployed on Render + Aiven MySQL), Flutter mobile app (citizen + driver roles, auto APK releases via GitHub Actions), and React admin panel (live on Vercel). Features STOMP/WebSocket real-time ambulance tracking, FCM push notifications, Google Maps live routing, OTP→JWT role-based auth (`PUBLIC`, `DRIVER`, `ADMIN`), and fully automated CI/CD pipelines across Render, Vercel, and APK releases.
 - 🛍️ Built **[PinnacleWear](https://www.pinnaclewear.shop)** — Engineered a scalable MERN-stack e-commerce platform featuring Razorpay and Printrove (POD) integrations. Containerized with Docker and deployed on Azure via a full CI/CD pipeline, fine-tuning the application to hit 100/100 for SEO and 86/100 for performance.
 - ⚙️ **Specialized** in **system design**, **microservices architecture**, **production debugging**, and **automated deployment pipelines**
 - 🌐 **Versatile Development** — Capable of building highly optimized applications across diverse ecosystems (TypeScript, React, Java, SpringBoot) with perfect 100/100 SEO scores and complete Google Business Profile (GBP) setups.
@@ -73,20 +73,28 @@
 
 ## 🚀 Featured Projects
 
-### 🚑 Emergency108 — Emergency Dispatch System
-> Production-grade emergency response backend with strict correctness guarantees
+### 🚑 Emergency108 — Full-Stack Emergency Dispatch Platform
+> Production-ready, end-to-end emergency response system — Spring Boot backend · Flutter mobile app · React admin panel
 
-[![Java](https://img.shields.io/badge/Java%2017-orange?style=flat-square&logo=java)](https://github.com/anupamkushwaha85/emergency-dispatch-system)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-brightgreen?style=flat-square&logo=springboot)](https://github.com/anupamkushwaha85/emergency-dispatch-system)
-[![MySQL](https://img.shields.io/badge/MySQL%208-blue?style=flat-square&logo=mysql)](https://github.com/anupamkushwaha85/emergency-dispatch-system)
+[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%203-brightgreen?style=flat-square&logo=springboot)](https://github.com/anupamkushwaha85/emergency-dispatch-system)
+[![Mobile](https://img.shields.io/badge/Mobile-Flutter%203.x-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/anupamkushwaha85/emergency108)
+[![Admin](https://img.shields.io/badge/Admin-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/anupamkushwaha85/emergency-dispatch-admin-panel)
 
-- State-machine driven lifecycle: `CREATED → ASSIGNED → DISPATCHED → IN_PROGRESS → COMPLETED`
-- Automatic retry & timeout-based reassignment of ambulances
-- Optimistic/pessimistic locking for concurrency safety
-- Crash recovery on startup, Micrometer metrics, non-blocking audit events
-- RESTful APIs with Spring Security & JWT authentication
+| Role | Repository | Live / Download |
+|---|---|---|
+| ⚙️ Backend (Spring Boot) | [emergency-dispatch-system](https://github.com/anupamkushwaha85/emergency-dispatch-system) | Deployed on Render · Aiven MySQL |
+| 📱 Mobile App (Flutter) | [emergency108](https://github.com/anupamkushwaha85/emergency108) | [⬇️ Latest APK](https://github.com/anupamkushwaha85/emergency108/releases/latest) |
+| 🖥️ Admin Panel (React) | [emergency-dispatch-admin-panel](https://github.com/anupamkushwaha85/emergency-dispatch-admin-panel) | [🌐 Live Demo](https://emergency-dispatch-admin-panel.vercel.app/) |
 
-[→ View Repository](https://github.com/anupamkushwaha85/emergency-dispatch-system)
+- State-machine driven lifecycle: `CREATED → ASSIGNED → DISPATCHED → IN_PROGRESS → COMPLETED` with crash recovery
+- Auto timeout/retry with cascading reassignment to the next nearest available driver
+- STOMP/WebSocket real-time ambulance tracking + FCM push notifications for citizens, drivers, and admins
+- Haversine-based nearest ambulance & hospital selection; Google Maps live turn-by-turn routing
+- Per-IP rate limiting, audit logging, Micrometer/Prometheus metrics, optimistic/pessimistic locking
+- OTP → JWT role-based auth (`PUBLIC`, `DRIVER`, `ADMIN`) with document-based driver verification
+- Automated CI/CD: GitHub Actions → Render (backend), Vercel (admin), auto APK releases (Flutter)
+
+> 🏷️ Stable release **v1.0.0** · Last updated March 2026
 
 ---
 
