@@ -127,6 +127,22 @@
 
 ---
 
+### 💳 Spring Core Billing System
+> Lightweight billing management system built on pure Spring Core — IoC, DI, and AOP without Spring Boot
+
+[![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)](https://github.com/anupamkushwaha85/Spring-Core-Billing-System)
+[![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/anupamkushwaha85/Spring-Core-Billing-System)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)](https://github.com/anupamkushwaha85/Spring-Core-Billing-System)
+
+- Invoice generation and billing lifecycle management using Spring IoC/DI
+- Aspect-Oriented Programming (AOP) for cross-cutting concerns (logging, validation)
+- Layered architecture: Controller → Service → Repository with clean separation of concerns
+- JDBC-based persistence with MySQL; Maven build system
+
+[→ View Repository](https://github.com/anupamkushwaha85/Spring-Core-Billing-System)
+
+---
+
 ### 🔑 Java Servlet MVC Auth System
 > Complete MVC authentication system from scratch — no framework shortcuts
 
