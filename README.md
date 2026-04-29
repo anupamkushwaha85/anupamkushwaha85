@@ -71,6 +71,22 @@
 
 ---
 
+## Focus Project (In Progress)
+
+> 🚧 **Currently building** — a monorepo productivity platform combining a Flutter frontend with Java 17 Spring Boot microservices.
+
+**Focus Project** is designed to help users build deep-work habits through focus session tracking, progress gamification (XP & streaks), and secure account workflows — all delivered via a mobile-first Flutter app backed by an independent microservice architecture.
+
+**Core services:**
+- `auth-service` — OTP-based registration/recovery, JWT access & refresh tokens, Spring Security
+- `user-service` — Profile management, XP and streak logic
+- `focus-service` — Start / complete / abandon sessions, tag management, daily & historical stats
+- `api-gateway` — Spring Cloud Gateway routing, centralized JWT token validation
+
+**Tech stack:** Java 17 · Spring Boot · Spring Cloud Gateway · Spring Security · MongoDB · Flutter · JWT · Maven
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🚑 Emergency108 — Full-Stack Emergency Dispatch Platform
