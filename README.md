@@ -77,6 +77,13 @@
 
 **Focus Project** is designed to help users build deep-work habits through focus session tracking, progress gamification (XP & streaks), and secure account workflows — all delivered via a mobile-first Flutter app backed by an independent microservice architecture.
 
+**What I’m implementing now:**
+- Mobile-first session experience with start, complete, and abandon flows
+- Habit reinforcement logic using XP progression, streak tracking, and daily summaries
+- OTP-first auth journeys with refresh-token support for secure long-lived sessions
+- API Gateway-based service orchestration with centralized token validation
+- Modular service boundaries to scale auth, user, and focus workloads independently
+
 **Core services:**
 - `auth-service` — OTP-based registration/recovery, JWT access & refresh tokens, Spring Security
 - `user-service` — Profile management, XP and streak logic
@@ -84,6 +91,11 @@
 - `api-gateway` — Spring Cloud Gateway routing, centralized JWT token validation
 
 **Tech stack:** Java 17 · Spring Boot · Spring Cloud Gateway · Spring Security · MongoDB · Flutter · JWT · Maven
+
+**Planned next milestones:**
+- Deep analytics dashboard for weekly focus insights and productivity trends
+- Smart reminders and nudges to reduce streak drop-offs
+- Expanded session categorization and tag intelligence for better habit patterns
 
 ---
 
@@ -184,6 +196,24 @@
 - HikariCP connection pooling; SLF4J structured logging
 
 [→ View Repository](https://github.com/anupamkushwaha85/Student-Management-System)
+
+---
+
+### 🏥 Medical Store Website — Full-Stack Pharmacy E-Commerce
+> End-to-end MERN pharmacy platform for medicine discovery, prescription-assisted ordering, and online checkout
+
+[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-0ea5e9?style=flat-square&logo=react&logoColor=white)](https://github.com/anupamkushwaha85/Medical-Store-Website)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-14b8a6?style=flat-square&logo=node.js&logoColor=white)](https://github.com/anupamkushwaha85/Medical-Store-Website)
+[![Database](https://img.shields.io/badge/Database-MongoDB-16a34a?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/anupamkushwaha85/Medical-Store-Website)
+
+- Fast and responsive storefront built with React + Vite
+- Node.js/Express API layer with modular business logic
+- Product, category, and order lifecycle management on MongoDB
+- Prescription upload and contact workflow support for pharmacy operations
+- Razorpay-powered checkout for secure online payments
+- GitHub Actions-based frontend deployment pipeline
+
+[→ View Repository](https://github.com/anupamkushwaha85/Medical-Store-Website)
 
 ---
 
